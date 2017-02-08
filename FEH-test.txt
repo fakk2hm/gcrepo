@@ -1,0 +1,30 @@
+
+n for spot filling
+spot_fill(hero);
+#logic putting highest ranked hero in hero_pool in an open spot
+{
+Do stuff
+}
+
+#Hero rank and type
+
+Takumi = 37,'grey'
+Lynn = 37,'red'
+Cordelia = 37,'blue'
+Camilla = 37,'geen'
+Sakura = 34, 'grey'
+
+hero_pool = ""
+
+spot1 = ""
+spot2 = ""
+spot3 = ""
+spot4 = ""
+
+
+If spot1 =/= "";
+#determine type and remove type from hero_pool
+{
+}
+
+If spot2
