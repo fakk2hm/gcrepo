@@ -1,0 +1,17 @@
+<table>
+    <thead>
+        <tr><th></th><th>Row Text</th></tr>
+    </thead>
+    <tr>
+        <td><input type="checkbox" /></td>
+        <td>Test</td>
+    </tr>
+    <tr>
+        <td><input type="checkbox" /></td>
+        <td>Test 2</td>
+    </tr>
+    <tr>
+        <td><input type="checkbox" /></td>
+        <td>Test 3</td>
+    </tr>
+</table>

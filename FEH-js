@@ -1,0 +1,11 @@
+checkboxes = document.getElementsByTagName("input"); 
+
+for (var i = 0; i < checkboxes.length; i++) {
+    var checkbox = checkboxes[i];
+    checkbox.onclick = function() {
+        var currentRow = this.parentNode.parentNode;
+        var secondColumn = currentRow.getElementsByTagName("td")[1];
+
+        alert("My text is: " + secondColumn.textContent );
+    };
+} 
